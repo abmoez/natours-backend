@@ -20,6 +20,3 @@ A NodeJS learning project involving the creation of a restful API using NodeJS f
 * Wrote and implemented factory functions for commonly used routes
 * Implemented authorization
 * Implemented geospatial routes and queries
-
-## Next task
-* Front-end portion
